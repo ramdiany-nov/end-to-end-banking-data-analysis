@@ -63,7 +63,12 @@ Design       : Figma
 - UI/UX awareness in analytics presentation
 - Multi-tool integration in real-world simulation
 ```
+---
+## 🌟 About Me
 
+Hi there! I'm **Novia Noer Ramdiany**. I’m passionate on data fields.
+
+Let's stay in touch! Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/noviaramdiany/
 
 
 
